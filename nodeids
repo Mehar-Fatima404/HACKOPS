@@ -1,0 +1,19 @@
+[
+  "tests/test_admin.py::test_admin_config_update",
+  "tests/test_admin.py::test_admin_metrics",
+  "tests/test_database.py::test_api_admin_db_info_endpoint",
+  "tests/test_database.py::test_api_generation_persists_audit_log",
+  "tests/test_database.py::test_custom_schema_crud",
+  "tests/test_database.py::test_database_init_and_info",
+  "tests/test_database.py::test_database_metrics_aggregation",
+  "tests/test_database.py::test_export_postgres_sql_dump",
+  "tests/test_database.py::test_record_generation_event",
+  "tests/test_documents.py::test_direct_pdf_rendering",
+  "tests/test_documents.py::test_invoice_generation_and_pdf",
+  "tests/test_documents.py::test_statement_continuous_running_balance",
+  "tests/test_relational.py::test_relational_generation_and_reconciliation",
+  "tests/test_schema_ai.py::test_infer_csv_snippet",
+  "tests/test_schema_ai.py::test_infer_sql_ddl",
+  "tests/test_tabular.py::test_tabular_generation_basic",
+  "tests/test_tabular.py::test_tabular_privacy_and_outliers"
+]
